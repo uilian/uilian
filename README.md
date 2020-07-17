@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [Next Digital Bank](https://next.me/)
 
-- ⚡ My current employer is ThinkBRQ / BRQ [https://thinkbrq.com](https://brq.com/)
+- 💻 My current employer is ThinkBRQ / BRQ [https://thinkbrq.com](https://brq.com/)
 
-- 👨‍💻 Find more about me at [https://uilian.dev/about](https://uilian.dev/about)
+- 👨‍ Find more about me at [https://uilian.dev/about](https://uilian.dev/about)
 
-- 👨‍💻 📝 I ~regulary~ write articles on [https://uilian.dev/](https://uilian.dev/)
+- 📝 I ~regulary~ write articles on [https://uilian.dev/](https://uilian.dev/)
 
 - 💬 Ask me about **Java, Python, Docker, Node.js**
 
