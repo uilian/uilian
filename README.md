@@ -12,7 +12,7 @@
 
 - 📝 ~Sometimes~ I write articles on [https://uilian.dev/](https://uilian.dev/)
 
-- 💬 Ask me about **Java, Python, Docker, Node.js**
+- 💬 Ask me about **Java, Python, Docker, Node.js, C/C++**
 
 - 📫 How to reach me **uilian[at]gmail.com**
 
