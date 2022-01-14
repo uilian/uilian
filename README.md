@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **uilian[at]gmail.com**
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=uilian&show_icons=true" alt="uilian" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=uilian&hide=contrib&show_icons=true" alt="uilian" /> </p>
 
 <p align="center">
 <a href="https://twitter.com/uilian" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="uilian" height="20" width="20" /></a>
