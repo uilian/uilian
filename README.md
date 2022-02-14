@@ -12,7 +12,7 @@
 
 - 📝 ~Sometimes~ I write articles on [https://uilian.dev/](https://uilian.dev/)
 
-- 💬 Ask me about **Java, Python, Docker, Node.js, Go, ETL / BI, Databases, Geo Spatial **
+- 💬 Ask me about **Java, Python, Docker, Node.js, Go, ETL / BI, Databases, Geo Spatial**
 
 - 📫 How to reach me **uilian[at]gmail.com**
 
