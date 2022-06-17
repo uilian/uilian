@@ -24,4 +24,4 @@
 <a href="https://stackoverflow.com/users/619530/uilian?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="uilian" height="20" width="20" /></a>   
 </p>
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/uilian/workflow_testing/output/github-contribution-grid-snake-dark.svg)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
