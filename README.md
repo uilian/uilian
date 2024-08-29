@@ -2,9 +2,9 @@
 <h3 align="center">A human being that happens to write code</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uilian" alt="uilian" /> </p>
 
-- 🔭 I’m currently working at [Charter / Spectrum](https://corporate.charter.com/)
+- 🔭 I’m currently working at [DirectBooks](https://www.directbooks.com/)
 
-- 🔙 Previous 2 places where I've worked before: [Next Digital Bank](https://next.me/) and [DealerTrack](https://us.dealertrack.com/)
+- 🔙 Most recent places where I've worked: [Charter / Spectrum](https://corporate.charter.com/), [Next Digital Bank](https://next.me/) and [DealerTrack](https://us.dealertrack.com/)
 
 - 💻 My current employer is ThinkBRQ / BRQ [https://thinkbrq.com](https://brq.com/)
 
